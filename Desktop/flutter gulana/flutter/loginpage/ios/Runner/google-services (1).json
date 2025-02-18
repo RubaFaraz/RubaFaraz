@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527049706629",
+    "project_id": "fire-setup-ea7e2",
+    "storage_bucket": "fire-setup-ea7e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527049706629:android:1e570b0731d82c28562dec",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wcp5IxIMuU9OjBNbMTBTeDYiP-laGBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527049706629:android:70823fe8bf9f5be7562dec",
+        "android_client_info": {
+          "package_name": "com.example.loginpagee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wcp5IxIMuU9OjBNbMTBTeDYiP-laGBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
