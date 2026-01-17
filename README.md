@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on **Aeronaa**
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI & ML**
 - 👨‍💻 All of my projects are available at [github](https://github.com/RubaFaraz)
 - 📫 Reach me through this Email: **rubafaraz2@gmail.com**
 
