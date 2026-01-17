@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
