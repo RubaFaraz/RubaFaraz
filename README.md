@@ -6,11 +6,6 @@
   I enjoy building real-world projects, creating user-friendly designs, and learning new technologies every day.
 </h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RubaFaraz" alt="RubaFaraz" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on **Aeronaa**
 - 🌱 I’m currently learning **AI**
@@ -77,5 +72,4 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubaFaraz&show_icons=true&locale=en&layout=compact" alt="RubaFaraz" />
 </p>
